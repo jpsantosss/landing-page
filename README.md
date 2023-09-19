@@ -1,2 +1,2 @@
-# lading-page
+# landing-page
  Landing page sobre um bot de Discord

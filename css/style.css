@@ -24,6 +24,7 @@ body{
     align-items: center;
     justify-content: space-around;
     padding: 15px;
+    border-bottom: 0.4px solid #f5f5f5;
 }
 header img{
     width: 100px;
@@ -36,9 +37,10 @@ header img{
 }
 
 .conteudo{
-    border-top: 0.4px solid #f5f5f5;
+    max-width: 1400px;
     margin-bottom: 48px;
     padding-top: 20px;
+    margin: auto;
 }
 .conteudo-principal{
     display: flex;
@@ -54,7 +56,7 @@ header img{
 .conteudo-principal-titulo{
     font-family: 'Rubik Mono One';
     color: var(--cor01);
-    font-size: 2em;
+    font-size: 3vmax;
 }
 .conteudo-principal-subtitulo{
     font-family: 'pt-mono';
@@ -94,7 +96,7 @@ header img{
     font-family: 'pt-mono';
     font-weight: 500;
     color: var(--cor01);
-    font-size: 1.5vmax;
+    font-size: 2vmin;
 }
 
 .rodape{

@@ -56,12 +56,12 @@ header img{
 .conteudo-principal-titulo{
     font-family: 'Rubik Mono One';
     color: var(--cor01);
-    font-size: 3vmax;
+    font-size: 4vw;
 }
 .conteudo-principal-subtitulo{
     font-family: 'pt-mono';
     color: var(--cor01);
-    font-size: 2vmax;
+    font-size: 2vw;
 }
 .conteudo-principal-botao{
     font-family: 'pt-mono';

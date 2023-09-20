@@ -61,7 +61,7 @@ header img{
 .conteudo-principal-subtitulo{
     font-family: 'pt-mono';
     color: var(--cor01);
-    font-size: 2vmin;
+    font-size: 3vmin;
 }
 .conteudo-principal-botao{
     font-family: 'pt-mono';
